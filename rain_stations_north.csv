@@ -1,0 +1,17 @@
+﻿station_id,name_th,name_en,province,lat,lon,elev_m
+S01,เชียงใหม่,Chiang Mai,Chiang Mai,18.79,98.98,314
+S02,แม่แจ่ม,Mae Chaem,Chiang Mai,18.5,98.36,480
+S03,ดอยอ่างขาง,Doi Ang Khang,Chiang Mai,19.93,99.05,1400
+S04,เชียงราย,Chiang Rai,Chiang Rai,19.91,99.83,390
+S05,เชียงแสน,Chiang Saen,Chiang Rai,20.27,100.08,360
+S06,แม่ฮ่องสอน,Mae Hong Son,Mae Hong Son,19.3,97.97,268
+S07,แม่สะเรียง,Mae Sariang,Mae Hong Son,18.17,97.93,211
+S08,ลำปาง,Lampang,Lampang,18.29,99.49,240
+S09,เถิน,Thoen,Lampang,17.64,99.22,190
+S10,ลำพูน,Lamphun,Lamphun,18.58,99.01,296
+S11,พะเยา,Phayao,Phayao,19.17,99.9,395
+S12,แพร่,Phrae,Phrae,18.14,100.14,157
+S13,น่าน,Nan,Nan,18.78,100.78,200
+S14,ท่าวังผา,Tha Wang Pha,Nan,19.12,100.81,230
+S15,ปัว,Pua,Nan,19.18,100.91,250
+S16,อุตรดิตถ์,Uttaradit,Uttaradit,17.62,100.1,63
